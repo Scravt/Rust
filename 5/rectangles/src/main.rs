@@ -34,3 +34,5 @@ fn main() {
 
     println!("rect1 is {rect1:?}");
 }
+
+///metodos
